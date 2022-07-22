@@ -16,10 +16,7 @@ This is a demonstration of RESTful call in Java. Using a sample audio file, the 
    ```sh
    git clone https://github.com/bradclemson97/Learning-Java-REST-API.git
    ```
-3. Enter your API in `RestApiTutorial.java`
-   ```sh
-  .header('Authorization', value = 'ENTER YOUR API KEY');
-   ```
+3. Enter your API ID in `RestApiTutorial.java`
 
 ### Help
 
