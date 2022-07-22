@@ -17,30 +17,28 @@ This is a demonstration of RESTful call in Java. Using a sample audio file, the 
    git clone https://github.com/bradclemson97/Learning-Java-REST-API.git
    ```
 3. Enter your API in `RestApiTutorial.java`
-   ```js
+   ```sh
   .header('Authorization', value = 'ENTER YOUR API KEY');
    ```
 
-## Help
+### Help
 
 When running, the application will keep sending the get request until it completes. 
-```
 While running, the application is designed to check and return the status of the request every second. Once a 'complete' or error' status is returned the request is no longer sent. 
-```
 
-## Authors
+### Authors
 
 Contributors names and contact info
 
 ex. Bradley Clemson 
 ex. [@bradclemson](https://twitter.com/bradclemson)
 
-## Version History
+### Version History
 
 * 0.1
     * Initial Release
 
-## Acknowledgments
+### Acknowledgments
 
 * [AssemblyAI](https://app.assemblyai.com/)
 * [Audio Samples](https://github.com/audio-samples)
